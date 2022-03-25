@@ -1,2 +1,0 @@
-print("just test to add a new file via website")
-print("have a road trip every weekend")
